@@ -67,7 +67,6 @@ Each subfolder contains its own README with setup and usage instructions. Here's
 | Task 1 | Solidity, Hardhat | `npx hardhat test`, `npx hardhat run scripts/deploy.js` |
 | Task 2 | React, Tailwind, ethers.js | `npm install`, `npm run dev` |
 | Task 3 | NestJS, MongoDB | `npm install`, `npm run start:dev`, or `docker build && docker run` |
-| Task 4 | Optimization docs | Refer to `task4_optimization/README.md` |
 
 ---
 
