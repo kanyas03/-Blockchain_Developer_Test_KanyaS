@@ -53,20 +53,10 @@ This repository contains the solution to the **Blockchain Developer Assessment T
 - **Dockerized**: Includes Dockerfile for containerization
 - **Tested With**: Postman (screenshots provided)
 
-📄 More in: [`task3_api/README.md`](task3_api/README.md)
+📄 More in: [`task3_api/README.md`](ComplaintLogg/README.md)
 
 ---
 
-### ✅ Task 4: Documentation and Optimization
-
-- **Optimization Target**: Smart Contract
-- **Issue Identified**: Redundant storage writes in `issueCertificate()`
-- **Solution**: Optimized mapping and event emission
-- **Impact**: Reduced gas cost per issuance by ~10–15%
-
-📄 More in: [`task4_optimization/README.md`](task4_optimization/README.md)
-
----
 
 ## ⚙️ How to Run Each Task
 
@@ -108,7 +98,6 @@ All screenshots are provided in respective task folders (`screenshots/`).
 
 Repository Link: [https://github.com/yourusername/Blockchain_Developer_Test_KanyaS](https://github.com/yourusername/Blockchain_Developer_Test_KanyaS)
 
-Submitted via email to: `starxaitech.hr@gmail.com`
 
 ---
 
