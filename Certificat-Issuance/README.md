@@ -1,6 +1,38 @@
-# Sample Hardhat Project
+# 🎓 Certificate Issuance & Verification dApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+A decentralized application (dApp) built with Solidity and React that allows an admin to issue certificates on-chain and users to verify them publicly.
+
+---
+
+## 🔧 Tech Stack
+
+- **Smart Contract**: Solidity
+- **Framework**: Hardhat
+- **Frontend**: React + Tailwind CSS
+- **Wallet**: MetaMask
+- **Blockchain**: Ethereum (Sepolia Testnet)
+
+---
+
+## 📦 Prerequisites
+
+Make sure you have installed:
+
+- Node.js `v18+`
+- [Hardhat](https://hardhat.org/)
+- MetaMask extension
+- A Sepolia testnet wallet with ETH
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/Certificate-Issuance.git
+cd Certificate-Issuance
+
 
 Try running some of the following tasks:
 
