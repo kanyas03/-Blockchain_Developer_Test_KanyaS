@@ -39,7 +39,7 @@ This repository contains the solution to the **Blockchain Developer Assessment T
   - Admin Panel
   - Certificate Verifier
 
-📄 More in: [`task2_dapp/README.md`](task2_dapp/README.md)
+📄 More in: [`task2_dapp/README.md`](Certificate-DApp/certificate_dapp/README.md)
 
 ---
 
