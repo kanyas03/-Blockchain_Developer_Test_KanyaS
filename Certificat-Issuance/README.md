@@ -30,7 +30,7 @@ Make sure you have installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Certificate-Issuance.git
+git clone git@github.com:kanyas03/-Blockchain_Developer_Test_KanyaS.git
 cd Certificate-Issuance
 
 
