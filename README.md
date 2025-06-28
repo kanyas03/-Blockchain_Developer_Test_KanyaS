@@ -93,12 +93,3 @@ All screenshots are provided in respective task folders (`screenshots/`).
 
 ---
 
-## 📫 Submission
-
-Repository Link: [https://github.com/yourusername/Blockchain_Developer_Test_KanyaS](https://github.com/yourusername/Blockchain_Developer_Test_KanyaS)
-
-
----
-
-> ⏳ Completed within 24-hour deadline.
-
