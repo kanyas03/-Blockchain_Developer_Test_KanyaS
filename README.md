@@ -24,7 +24,7 @@ This repository contains the solution to the **Blockchain Developer Assessment T
 - **Deployed On**: Sepolia Testnet  
   **Contract Address**: `0x76C0772879d754F558b931907A30A62Eb48467B6`
 
-📄 More in: [`task1_smart_contract/README.md`](/README.md)
+📄 More in: [`task1_smart_contract/README.md`](Certificat-Issuance/README.md)
 
 ---
 
