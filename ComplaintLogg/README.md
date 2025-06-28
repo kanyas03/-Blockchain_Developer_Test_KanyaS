@@ -83,8 +83,7 @@ MONGO_URI=mongodb://host.docker.internal:27017/complaints
 
 ### 2. Build Docker Image
 ```bash
-Copy
-Edit
+
 docker build -t complaint-api .
 ```
 ### 🧠 Notes
@@ -98,5 +97,9 @@ Use host.docker.internal to connect to MongoDB from inside Docker
 
 ### 📄 License
 MIT © 2025
+
+### 📸 Sample Screenshot
+In ScreenShot folder
+
 
 
