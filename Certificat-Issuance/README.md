@@ -44,8 +44,11 @@ npx hardhat compile
 ```
 ### 4️⃣ Set Up Environment Variables
 Create a .env file:
+
 PRIVATE_KEY=your_private_key
+
 SEPOLIA_RPC_URL=https://sepolia.infura.io/v3/YOUR_INFURA_KEY
+
 VITE_CONTRACT_ADDRESS=0xYourDeployedContractAddress
 
 ### 5️⃣ Deploy to Sepolia
